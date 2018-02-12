@@ -20,6 +20,6 @@
 | Ultrasonic sensor | 1 |
 | Switch |  2  |
 | PIR Motion sensor | 1 |
-| DHT11(Temp & Humidity sensor) 1 |
+| DHT11(Temp & Humidity sensor) | 1 |
 | Buzzer  |  1  |
 | LDR    |  1   |
